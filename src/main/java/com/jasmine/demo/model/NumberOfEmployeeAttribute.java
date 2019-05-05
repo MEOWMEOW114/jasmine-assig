@@ -5,7 +5,6 @@ public class NumberOfEmployeeAttribute implements Attribute  {
 	final Integer value;
 
 	public NumberOfEmployeeAttribute(Integer noOfEmployee) {
-		System.out.println(noOfEmployee + " dsfasdf");
 		this.value = noOfEmployee;
 	}
 
